@@ -32,17 +32,17 @@
 稳定版：
 
 ```yum install screen wget -y &&screen -S ssrpanel```<br>
-```wget --no-check-certificate https://raw.githubusercontent.com/marisn2017/ssrpanel/master/stable-script.sh&&chmod +x stable-script.sh&&bash stable-script.sh```
+```wget --no-check-certificate https://raw.githubusercontent.com/zggcd/ssrpanel/master/stable-script.sh&&chmod +x stable-script.sh&&bash stable-script.sh```
 
 开发版：
 
 ```yum install screen wget -y &&screen -S ssrpanel```<br>
-```wget --no-check-certificate https://raw.githubusercontent.com/marisn2017/ssrpanel/master/dev-script.sh&&chmod +x dev-script.sh&&bash dev-script.sh```
+```wget --no-check-certificate https://raw.githubusercontent.com/zggcd/ssrpanel/master/dev-script.sh&&chmod +x dev-script.sh&&bash dev-script.sh```
 
 
 更多问题访问：<a href="https://blog.67cc.cn/">https://blog.67cc.cn/</a><br>
 
-WIKI:<a href="https://github.com/marisn2017/ssrpanel/wiki">https://github.com/marisn2017/ssrpanel/wiki</a><br>
+WIKI:<a href="https://github.com/zggcd/ssrpanel/wiki">https://github.com/zggcd/ssrpanel/wiki</a><br>
 
 <br><p>打赏请留言，需要匿名的请备注哦~</p> <p>再次感谢打赏~</p> <p><img src="https://cdn.67cc.cn/20171149300097257160.png" alt="打赏捐赠" /></p>
 
